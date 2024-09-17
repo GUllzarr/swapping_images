@@ -1,0 +1,23 @@
+h1,
+p {
+    text-align: center;
+}
+
+.gallery {
+   
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.gallery img {
+    width: 150px;
+    cursor: pointer;
+}
+
+.main-image {
+    display: block;
+    margin: 20px auto;
+    width: 300px;
+}
